@@ -1,0 +1,20 @@
+Copyright (c) 2025 Isaac Marco Escobar Placencia
+
+All rights reserved.
+
+This work, including all text, mathematical formulations, 
+and conceptual frameworks contained herein, is the exclusive 
+intellectual property of the author.
+
+You are permitted to:
+  - Read and share this work for non-commercial purposes
+  - Cite this work in academic or research contexts, 
+    with proper attribution to the author
+
+You are NOT permitted to:
+  - Reproduce, publish, or distribute this work commercially
+  - Create derivative works without explicit written permission
+  - Implement this protocol in products or services without 
+    a license agreement with the author
+
+For permissions: escobarplacenciaisaac@gmail.com
